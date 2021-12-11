@@ -1,5 +1,4 @@
 {
-  "name": "video-constructor",
   "name": "user-input",
   "version": "1.0.0",
   "description": "Automatized videos project",
@@ -8,13 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-	"type": "git",
-	"url": "https://github.com/rodrigoc-silva/video-constructor.git"
-	},
+    "type": "git",
+    "url": "https://github.com/rodrigoc-silva/video-constructor.git"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
-	  "url": "https://github.com/rodrigoc-silva/video-constructor/issues"
+    "url": "https://github.com/rodrigoc-silva/video-constructor/issues"
   },
-  "homepage": "https://github.com/rodrigoc-silva/video-constructor#readme"
+  "homepage": "https://github.com/rodrigoc-silva/video-constructor#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
