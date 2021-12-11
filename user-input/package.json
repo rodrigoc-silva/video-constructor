@@ -1,5 +1,6 @@
 {
   "name": "video-constructor",
+  "name": "user-input",
   "version": "1.0.0",
   "description": "Automatized videos project",
   "main": "index.js",
